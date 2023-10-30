@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRG-8060-Sec-4-23F", "..\..\..\OneDrive\Desktop\PROG-8060-23F -4\PRG-8060-Sec-4-23F\PRG-8060-Sec-4-23F.csproj", "{3C7DF4D1-8B6B-49A4-ABF0-6314C66D512E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C7DF4D1-8B6B-49A4-ABF0-6314C66D512E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7DF4D1-8B6B-49A4-ABF0-6314C66D512E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7DF4D1-8B6B-49A4-ABF0-6314C66D512E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7DF4D1-8B6B-49A4-ABF0-6314C66D512E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9241BC92-38D7-4B80-8DAB-A047DFA50356}
+	EndGlobalSection
+EndGlobal
