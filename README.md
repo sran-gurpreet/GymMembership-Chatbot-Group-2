@@ -1,5 +1,5 @@
-# Wheelseyes Car Rental App
+# Wheelseyes
 # Group-2
-Restuarants Chatbot  
+Car Rental App  
 
-This is a fork repo for group 2 members.
+This repo will host the files and documents.
